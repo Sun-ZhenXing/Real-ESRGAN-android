@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">超分辨率工具</string>
+    <string name="select_model_text">选择模型</string>
+    <string name="select_btn">选择</string>
+    <string name="start_btn">开始</string>
+    <string name="waifu2x_ratio">Waifu2x</string>
+    <string name="select_img_text">选择图像</string>
+    <string name="real_esrgan_ratio">Real-ESRGAN</string>
+    <string name="use_all_ratio">合并使用</string>
+    <string name="textview">文件默认保存在：我的手机/Android/com.alexsun.nativedemo/files 文件夹下，开始后手机会卡顿几分钟，请保持屏幕常亮等待卡顿结束</string>
+</resources>
